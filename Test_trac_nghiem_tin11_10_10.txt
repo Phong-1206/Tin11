@@ -189,9 +189,9 @@ D. Nghiên cứu máy tính điện tử.
 
 Câu 10: Đặc điểm nổi bật của xã hội hiện nay là gì?
 A. Sự ra đời của máy cơ khí.
-B. Sự ra đời của máy tính điện tử.
+##✅B. Sự ra đời của máy tính điện tử.
 C. Sự ra đời của máy bay.
-##✅D. Cả A, B, C
+D. Cả A, B, C
 
 Câu 11: Những ưu việt của máy tính điện tử là gì?
 A. Các máy tính có thể liên kết với nhau thành một mạng và các mạng máy tính tạo ra khả năng thu thập và xử lí thông tin rất tốt.
