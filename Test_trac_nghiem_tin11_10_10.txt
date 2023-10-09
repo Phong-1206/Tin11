@@ -1,0 +1,385 @@
+|______________________________________|
+|  Ae học kĩ bài 1,2 nha.              |
+|  Lỡ không đúng giống kiểm tra thì    |
+|  cũng đừng toxic nha                 |
+|______________________________________|
+
+Chú Ý: ##✅ == Đáp Án Đúng
+Tải Phần Mềm Xem File TXT Để Không Lỗi Font Chữ 
+Lười Gõ Word Quá T Dùng App Code Để Làm Luôn Nên Nó Nhìn Hơi Phèn : )
+
+
+*****  BÀI 1 NHA CÁC BÉ  ******
+
+Câu 1: Bên trong thân máy tính, các bộ phận chính bao gồm những gì?
+##✅A. Bảng mạch chính, CPU, RAM, ROM, thiết bị lưu trữ
+B. Bảng mạch chính, GPU, SSD, BIOS, bộ nhớ đệm
+C. Bảng mạch chính, RAM, ổ cứng, nguồn điện, loa
+D. Bảng mạch chính, CPU, hệ điều hành, màn hình, ổ đĩa CD/DVD
+
+Câu 2: Bảng mạch chính của máy tính có chức năng gì?
+A. Tạo ra tín hiệu âm thanh cho máy tính
+B. Điều khiển việc ghi và đọc dữ liệu từ ổ cứng
+##✅C. Tương tác với các thiết bị ngoại vi và điều khiển CPU, RAM
+D. Xử lý đồ họa và hiển thị hình ảnh trên màn hình
+
+Câu 3: CPU (Central Processing Unit) trong máy tính có vai trò gì?
+A. Lưu trữ dữ liệu tạm thời trong quá trình tính toán
+##✅B. Xử lý và thực thi các lệnh của máy tính
+C. Điều khiển hoạt động của các thiết bị ngoại vi
+D. Ghi và đọc dữ liệu từ ổ cứng
+
+Câu 4: RAM (Random Access Memory) trongmáy tính có chức năng gì?
+A. Lưu trữ dữ liệu lâu dài và không bị mất khi máy tính tắt nguồn
+B. Lưu trữ các chương trình khởi động của máy tính
+##✅C. Lưu trữ dữ liệu tạm thời trong quá trình tính toán
+D. Xử lý đồ họa và hiển thị hình ảnh trên màn hình
+
+Câu 5: ROM (Read Only Memory) trong máy tính được sử dụng để làm gì?
+##✅A. Lưu trữ chương trình khởi động và các chức năng cơ bản của máy tính
+B. Xử lý và thực thi các lệnh của máy tính
+C. Lưu trữ dữ liệu tạm thời trong quá trình tính toán
+D. Ghi và đọc dữ liệu từ ổ cứng
+
+Câu 6: Loại thiết bị lưu trữ nào được sử dụng để lưu trữ dữ liệu lâu dài và không bị mất khi máy tính tắt nguồn?
+##✅A. Ổ cứng HDD
+B. Ổ cứng SSD
+C. USB
+D. RAM
+
+Câu 7: Đặc điểm nào của RAM khiến dữ liệu bị mất khi máy tính bị mất điện hoặc khởi động lại?
+A. Tốc độ truy cập nhanh
+B. Khả năng lưu trữ dữ liệu lâu dài
+C. Dung lượng lưu trữ lớn
+##✅D. Dữ liệu chỉ tồn tại trong thời gian hoạt động của máy tính
+
+Câu 8: Loại thiết bị lưu trữ nào được sử dụng để lưu trữ dữ liệu tạm thời trong quá trình tính toán của máy tính?
+A. Ổ cứng HDD
+B. Ổ cứng SSD
+C. USB
+##✅D. RAM
+
+Câu 9: Đâu là vai trò chính của bảng mạch chính trong máy tính?
+A. Lưu trữ dữ liệu tạm thời trong quá trình tính toán
+##✅B. Xử lý và thực thi các lệnh của máy tính
+C. Tạo ra tín hiệu âm thanh cho máy tính
+D. Điều khiển việc ghi và đọc dữ liệu từ ổ cứng
+
+Câu 10: Dung lượng lưu trữ của máy tính bao gồm các thành phần nào?
+##✅A. Dung lượng của ổ cứng HDD và ổ cứng SSD
+B. Dung lượng của RAM và ROM
+C. Dung lượng của CPU và GPU
+D. Dung lượng của ổ đĩa CD/DVD và thiết bị nhớ USB
+
+Câu 11: Hiệu năng của máy tính phụ thuộc vào những yếu tố nào?
+A. Cấu hình đồ họa và âm thanh
+B. Kích thước màn hình và độ phân giải
+C. Loại hệ điều hành và ổ cứng
+##✅D. Tốc độ CPU và dung lượng bộ nhớ RAM
+
+Câu 12: Đơn vị đo tốc độ CPU là gì?
+A. Megabyte (MB)
+##✅B. Hertz (Hz)
+C. Gigahertz (GHz)
+D. Kilobyte (KB)
+
+Câu 13: Số lượng nhân (core) của CPU ảnh hưởng như thế nào đến hiệu năng của máy tính?
+##✅A. Càng nhiều nhân, hiệu năng càng cao
+B. Càng ít nhân, hiệu năng càng cao
+C. Số lượng nhân không liên quan đến hiệu năng
+D. Chỉ cần có một nhân là đủ để đạt hiệu năng cao
+
+Câu 14: Đơn vị đo dung lượng RAM là gì?
+A. Byte
+##✅B. Gigabyte (GB)
+C. Kilobyte (KB)
+D. Terabyte (TB)
+
+Câu 15: Máy tính có RAM với dung lượng lớn hơn thì hiệu năng thế nào?
+##✅A. Hiệu năng cao hơn
+B. Hiệu năng thấp hơn
+C. Không ảnh hưởng đến hiệu năng
+D. Tùy thuộc vào tốc độ CPU
+
+Câu 16: Đơn vị đo tốc độ CPU GHz tương ứng với bao nhiêu Hz?
+A. 10^3 Hz
+B. 10^6 Hz
+##✅C. 10^9 Hz
+D. 10^12 Hz
+
+Câu 17: Thông số kĩ thuật của CPU gồm những yếu tố nào?
+##✅A. Tốc độ và số lượng nhân
+B. Dung lượng và loại ổ cứng
+C. Độ phân giải và kích thước màn hình
+D. Hệ điều hành và RAM
+
+Câu 18 : Khi lựa chọn cấu hình cho máy tính, thiết bị cần quan tâm đầu tiên là?
+ A. CPU
+ B. RAM
+ ##✅C. Mainboard
+ D. Monitor
+ 
+Câu 19: Trong máy tính, cổng logic là thành phần cơ bản thực hiện mọi tính toán. Cổng logic được tạo ra từ việc kết hợp các gì?
+A. Thiết bị lưu trữ
+B. CPU và RAM
+C. Màn hình và bàn phím
+##✅D. Bóng bán dẫn
+
+Câu 20: Mỗi bóng bán dẫn trong máy tính có khả năng thực hiện chức năng gì?
+A. Lưu trữ dữ liệu tạm thời
+##✅B. Bật hoặc tắt mạch đơn giản
+C. Thực hiện tính toán phức tạp
+D. Điều khiển các thiết bị ngoại việc
+
+*****   BÀI 2 NHA CÁC BÉ  ******
+
+Câu 1: Chọn nhóm từ thích hợp điền vào đoạn sau: Ngành tin học gắn liền với…… và ……máy tính điện tử.
+A. Tiêu thụ, sự phát triển.
+B. Sự phát triển, tiêu thụ.
+C. Sử dụng, tiêu thụ.
+##✅D. Sự phát triển, sử dụng.
+
+Câu 2: Loại công cụ nào gắn liền với nền văn minh thông tin?
+A. Máy phát điện.
+##✅B. Máy tính điện tử.
+C. Đồng hồ.
+D. Động cơ hơi nước.
+
+Câu 3: Trong những tình huống nào sau đây, máy tính thực thi công việc tốt hơn con người?
+A. Khi dịch một tài liệu.
+##✅B. Khi thực hiện một phép toán phức tạp.
+C. Khi chuẩn đoán bệnh.
+D. Khi phân tích tâm lí một con người.
+
+Câu 4: Phát biểu nào dưới đây về khả năng của máy tính là phù hợp nhất?
+A. Lập trình và soạn thảo văn bản.
+B. Công cụ xử lí thông tin.
+C. Giải trí.
+##✅D. Tất cả phương án trên.
+
+Câu 5:  Đặc thù của ngành tin học là gì?
+A. Quá trình nghiên cứu và ứng dụng các công cụ tính toán.
+B. Quá trình nghiên cứu và xử lí thông tin một cách tự động.
+##✅C. Quá trình nghiên cứu và triển khai các ứng dụng không tách rời việc phát triển và sử dụng máy tính điện tử.
+D. Quá trình nghiên cứu và xử lí thông tin.
+
+Câu 6: Chọn phương án ghép đúng nói về thuật ngữ tin học trong các câu sau: Tin học là…
+A. Lập chương trình cho máy tính.
+B. Máy tính và các công việc liên quan đến máy tính điện tử.
+C. Áp dụng máy tính trong các hoạt động xử lý thông tin.
+##✅D. Ngành khoa học về xử lý thông tin tự động dựa trên máy tính điện tử.
+
+Câu 7:  Phát biểu nào dưới đây là sai?
+##✅A. Máy tính tốt là máy tính nhỏ, gọn và đẹp.
+B. Máy tính ra đời làm thay đổi phương thức quản lí và giao tiếp trong xã hội.
+C. Các chương trình trên máy tính ngày càng đáp ứng được nhiều ứng dụng thực tế và dễ sử dụng hơn.
+D. Giá thành máy tính ngày càng hạ nhưng tốc độ, độ chính xác của máy tính ngày càng cao.
+
+Câu 8: Máy tính trở thành công cụ lao động không thể thiếu được trong xã hội hiện đại vì:
+A. Máy tính tính toán cực kì nhanh và chính xác.
+B. Máy tính là công cụ soạn thảo văn bản và cho ta truy cập vào Internet để tìm kiếm thông tin.
+C. Máy tính giúp cho con người giải tất cả các bài toán khó.
+##✅D. Máy tính cho ta khả năng lưu trữ và xử lý thông tin.
+
+Câu 9: Tin học là một ngành khoa học vì đó là ngành:
+##✅A. Có nội dung, mục tiêu, phương pháp nghiên cứu riêng.
+B. Được sinh ra trong nền văn minh thông tin.
+C. Sử dụng máy tính điện tử.
+D. Nghiên cứu máy tính điện tử.
+
+Câu 10: Đặc điểm nổi bật của xã hội hiện nay là gì?
+A. Sự ra đời của máy cơ khí.
+B. Sự ra đời của máy tính điện tử.
+C. Sự ra đời của máy bay.
+##✅D. Cả A, B, C
+
+Câu 11: Những ưu việt của máy tính điện tử là gì?
+A. Các máy tính có thể liên kết với nhau thành một mạng và các mạng máy tính tạo ra khả năng thu thập và xử lí thông tin rất tốt.
+B. Máy tính có thể lưu trữ một lượng lớn thông tin trong một không gian rất hạn chế.
+C. Máy tính có thể làm việc đến 7/24 giờ.
+##✅D. Cả A, B.
+
+Câu 12: Phát biểu nào sau đây là đúng?
+A. Máy tính là sản phẩm trí tuệ duy nhất của con người.
+B. Học tin học là học sử dụng máy tính.
+C. Máy tính có thể thay thế hoàn toàn cho con người trong việc xử lý thông tin.
+##✅D. Con người phát triển toàn diện của xã hội hiện đại là con người phải có hiểu biết về tin học.
+
+Câu 13: Sức mạnh của máy tính phụ thuộc vào những yếu tố nào?
+A. Khả năng tính toán nhanh của nó.
+B. Giá thành ngày càng rẻ.
+##✅C. Khả năng và sự hiểu biết của con người.
+D. Khả năng lưu trữ lớn.
+
+Câu 14: Theo em, hạn chế lớn nhất của máy tính hiện nay là gì?
+A. Khả năng lưu trữ còn thấp so với nhu cầu.
+B. Giá thành vẫn còn đắt so với đời sống hiện nay.
+C. Kết nối mạng internet còn chậm.
+##✅D. Không có khả năng tư duy toàn diện như con người
+
+Câu 15: Thiết bị nào dưới đây là thiết bị thông minh:
+##✅A. Đồng hồ kết nối với điện thoại qua Bluetooth.
+B. Cân.
+C. Ổ cắm.
+D. Khóa đa năng.
+
+Câu 16: Nói Camera có độ phân giải 12 megapixel” nghĩa là gì?
+##✅A.  Độ phân giải camera Megapixel là thông số biểu thị chất lượng hình ảnh mà camera đó có khả năng thu được 12 megapixel. 
+B. Độ phân giải camera Megapixel là thông số biểu thị chất lượng hình ảnh mà camera đó có khả năng thu được 21 megapixel. 
+C. Độ phân giải camera Megapixel là thông số biểu thị chất lượng hình ảnh mà camera đó có khả năng thu được 1,2 megapixel. 
+D. Độ phân giải camera Megapixel là thông số biểu thị dung lượng hình ảnh mà camera đó có khả năng thu được 12 megapixel. 
+
+Câu 17: Theo em, nên hay không nên làm những việc nào dưới đây?
+A. Giữ tay khô, sạch khi thao tác với máy tính.
+B. Gõ phím nhẹ, dứt khoát.
+C. Di chuyển chuột ở bề mặt gồ ghề hoặc mặt phẳng trơn bóng (ví dụ như mặt kính).
+D. Đóng các chương trình ứng dụng rồi tắt máy tính bằng chức năng Shut down.
+E. Tắt máy tính bằng cách ngắt nguồn điện cấp cho máy tính hoặc nhấn giữ nút nguồn điện trên thân máy.
+G. Vừa ăn, uống vừa sử dụng máy tính.
+##✅A. Việc làm nên làm: A, B, D, việc không nên làm: C, E, G.
+B.Việc làm nên làm: A, B, C, việc không nên làm: D, E, G.
+C. Việc làm nên làm: C, E, G, việc không nên làm: A, B, D.
+D. Việc làm nên làm: A, G, D, việc không nên làm: C, E, B.
+
+Câu 18: Những thiết bị thường hỏng trong phòng máy là:
+A. Tai nghe
+B. Bàn phím, chuột
+C. Tai nghe, bàn phím
+##✅D. Tai nghe, bàn phím, chuột
+
+Câu 19: Thiết bị số giúp xử lí thông tin cho con người?
+A. Đồng hồ
+B. Ti vi
+##✅C. Máy tính
+D. Tủ lạnh
+
+Câu 20: Thiết bị số là
+A. Thiết bị có thể thực hiện được các phép tính số học.
+B. Thiết bị có thể xứ Ií thông tin.
+C. Máy tính điện tử.
+##✅D. Thiết bị lưu trữ, truyền và xử lí dữ liệu số.
+
+
+*****   BÀI 3 NHA CÁC BÉ   ******
+
+
+Câu 1: Độ ưu tiên của các process cho biết:
+A. Process sử dụng CPU nhiều hay ít
+B. Process chiếm nhiều hay ít vùng nhớ
+##✅C. Tầm quan trọng của process
+
+Câu 2:Khi một process chuẩn bị vào hay ra khỏi một vùng Critical Section thì phải
+A. Xin phép hệ điều hành
+B. Phất cờ hiệu khi vào và trả khi ra
+##✅C. Cả hai ý trên 
+
+Câu 3: Giải thuật nào sau đây gọi nhau:
+A. Giải thuật an toàn gọi giải thuật nhà băng
+B. Giải thuật nhà băng gọi giải thuật an toàn
+##✅C. Hai giải thuật trên chạy độc lập
+
+Câu 4: Kỹ thuật nhập xuất nào sau đây lam CPU ít bận rộn nhất:
+A. Busy_waitting
+B. INterrup
+##✅C. DMA
+
+Câu 5: Trong Linux muốn ngưng lệnh ping ta phải nhấn phím:
+A. Ctrl+Break
+B. Ctrl+D
+##✅C. Ctrl+C
+
+Câu 6: Trong Linux lệnh ps -aux cho kết quả tương đương với thao tác nào sau đây trong MS-Windows:
+A. Start/Shutdown
+B. Start/Run rồi gõ cmd
+##✅C. Mở chương trình Task Manager
+
+Câu 7: Trong hệ thống file Ext2 các thông tin cơ bản của một partition được lưu tại vùng:
+##✅A. Super Block
+B. Group Descriptor
+C. Cả 2 vùng trên
+Câu 8. Trong Ext2,thư mục /root được quản lý bởi:
+
+A. Inode số 1
+##✅B. Inode số 2
+C. Cả 2 câu trên đều sai 
+
+Câu 9: Hãy chọn các đặc điểm đúng với khái niệm hệ điều hành đa nhiệm (multitaking operating system) trong các đặc điểm sau:
+A. Hệ thống quảy lý tiến trình theo lô
+B. Hệ thống quản lý làm việc phân tán
+C. Hệ thống quản lý nhiều người dùng (multi user)
+##✅D. Hệ thống điều phối bộ vi xử lý theo kiểm time – sharing
+
+Câu 10: Bộ nhớ chính (bộ nhớ trong ) bao gồm
+A. Thanh ghi và Rom
+##✅B. Rom và Ram
+C. Cache và Rom
+D. Thanh ghi và Ram
+
+Câu 11:Unix và Linux là
+A. Vừa là hệ điều hành đa nhiệm vừa là hệ điều hành đơn nhiệm
+B. Hệ điều hành đơn nhiệm
+##✅C. Hệ điều hành đa nhiệm nhiều người dùng
+D. Hệ điều hành đa nhiệm một người dùng
+
+Câu 12:Những phần mềm dưới đây được gọi chung là phần mềm gì?
+A. Phần mềm ứng dụng
+B. Phần mềm hệ thống
+C. Phần mềm soạn thảo văn bản
+##✅D. Phần mềm trình chiếu
+
+Câu 13:Cho các hệ điều hành sau:
+1. Windows.                     
+2. Android.
+3. Linux.
+4. iOS.
+5. MacOS.
+
+Số hệ điều hành dành cho điện thoại thông minh là:
+A. 1
+##✅B. 2
+C. 3
+D. 4
+
+Câu 14: Điền vào chỗ (…….)
+Hệ điều hành kiểm soát người dùng (……) máy tính thông qua các (…….).
+A. tài khoản - đăng nhập
+##✅B. đăng nhập - tài khoản.
+C. máy tính – tài khoản
+D. tài khoản - máy tính
+
+Câu 15: Điền vào chỗ (…….)
+“… làm trung gian giữa người dùng máy tính với các phần mềm ứng dụng”.
+A. CPU
+B. RAM
+C. Ổ đĩa cứng
+##✅D. Hệ điều hành
+
+Câu 16: File Explorer để làm gì?
+A. Để mở các phần mềm.
+B. Để mở phần mềm vẽ tranh.
+C. Để mở phần mềm lập trình.
+##✅D. Để mở cửa sổ của trình quản lý hệ thống tệp.
+
+Câu 17: Hệ điều hành Windows 10 có trung tâm an ninh Windows Defender với tính năng gì?
+A. Quản lý các tệp.
+B. Phòng chống bảo vệ phần cứng.
+##✅C. Phòng chống virus Antivirus.
+D. Phòng chống lỗi các phần mềm
+
+Câu 18:Chọn phát biểu sai.
+A. Hệ điều hành kiểm soát người dùng đăng nhập máy tính thông qua các tài khoản.
+B. Hệ điều hành làm trung gian giữa em với các phần mềm ứng dụng.
+##✅C. Trong khoảng thời gian khởi động máy tính, hệ điều hành được nạp từ ổ đĩa cứng lên bộ nhớ ngoài RAM.
+D. Hệ điều hành cho phép cập nhật phần mềm ứng dụng lên phiên bản mới hơn
+
+Câu 19:Muốn khởi động lại hệ điều hành Windows XP ta thực hiện như sau:
+##✅A. Vào bảng chọn Start à Turn off Computer à hộp thoại xuất hiện, chọn lệnh Restart.
+B. Vào bảng chọn Start à Turn off Computer à hộp thoại xuất hiện, chọn lệnh Stand By.
+C. Vào bảng chọn Start à Turn off Computer à hộp thoại xuất hiện, chọn lệnh Turn Off.
+D. Vào bảng chọn Start à Turn off Computer à hộp thoại xuất hiện, chọn lệnh Cancle
+
+Câu 20:Phần mềm nào dưới đây không phải là phần mềm hệ thống?
+A. Microsoft-DOS.
+B. Microsoft Windows.
+C. Linux
+##✅. Microsoft Excel.
