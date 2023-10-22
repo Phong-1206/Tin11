@@ -281,9 +281,9 @@ C. Apple
 D. Amazon
 
 Câu 6: Dịch vụ lưu trữ trực tuyến nào rất phổ biến tại Việt Nam?
-A. Google Drive
+##A. Google Drive
 B. OneDrive
-##C. Fshare
+C. Fshare
 D. Dropbox
 
 Câu 7: Thiết bị lưu trữ nào nổi tiếng với thời gian truy cập nhanh và khả năng chống sốc?
