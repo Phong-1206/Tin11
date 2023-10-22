@@ -1,0 +1,250 @@
+Bài 1 xem lại link cũ nha 
+
+Bài 4 
+Câu 1:  Các bộ phận chính trong sơ đồ cấu trúc máy tính gồm:
+##A. CPU, bộ nhớ trong/ngoài, thiết bị vào/ra
+B. Bàn phím và con chuột
+C. Máy quét và ổ cứng
+D. Màn hình và máy in
+
+Câu 2:  Thiết bị nào là thiết bị vào?
+##A. Chuột, bàn phím.
+B. Loa, tai nghe.
+C. Chuột, tai nghe.
+D. Bàn phím, loa.
+
+Câu 3:  Thiết bị nào là thiết bị ra?
+A. Chuột, bàn phím.
+##B. Loa, tai nghe.
+C. Chuột, tai nghe.
+D. Bàn phím, loa.
+
+Câu 4:  Thiết bị vừa vào và là thiết bị ra là:
+A. Bàn phím.
+##B. Màn hình cảm ứng.
+C. Chuột.
+D. Loa.
+
+Câu 5:  Chọn câu phát biểu đúng nhất trong các câu sau:
+A. Các thiết bị ra gồm: bàn phím, chuột, loa
+B. Các thiết bị ra gồm: bàn phím, màn hình, máy in
+##C. Các thiết bị vào gồm: bàn phím, chuột.
+D. Các thiết bị vào gồm: bàn phím, chuột, màn hình
+
+Câu 6:  Khẳng định nào sau đây là sai:
+A. Bàn phím và chuột được dùng để nhập dữ liệu.
+B. CPU là thành phần quan trọng nhất của máy tính.
+C. RAM là bộ nhớ trong của máy tính.
+##D. Điện thoại thông minh không thể được coi là một máy tính bảng thu nhỏ.
+
+Câu 7:  Webcam là thiết bị dùng để:
+A. Nhận thông tin dạng âm thanh.
+B. Nhận thông tin dạng kí tự.
+##C. Nhận thông tin dạng hình ảnh.
+D. Nhận thông tin dạng âm thanh và kí tự.
+
+Câu 8:  Khẳng định nào sau đây là đúng khi nói về máy tính xách tay?
+##A. Toàn bộ hộp thân máy, màn hình, bàn phím, chuột được tích hợp chung thành một khối, đảm nhiệm đầy đủ các chức năng của các thiết bị vào-ra và bộ phận xử lí thông tin.
+B. Bên trong máy tính thường không có loa, muốn máy tính có khả năng xuất và nhận thông tin dạng âm thanh ta phải cắm thêm bộ tai nghe kèm micro.
+C. Máy tính xách tay không có khả năng nhận thông tin vào và xuất thông tin ra dưới dạng hình ảnh, âm thanh.
+D. Chuột và bàn phím của máy xách tay là tách rời và phải cắm ngoài.
+
+Câu 9: Khẳng định nào sau đây là sai khi nói về máy tính bảng?
+##A. Màn hình cảm ứng không có chức năng của 1 bàn phím.
+B. Màn hình cảm ứng xuất hiện bàn phím ảo khi cần nhập dữ liệu.
+C. Màn ảnh cảm ứng cho phép chạm ngón tay để điều khiển máy tính thay thế chuột.
+D. Máy tính bảng có khả năng nhận thông tin vào và xuất thông tin dưới dạng hình ảnh, âm thanh.
+
+Câu 10:  CPU làm những công việc chủ yếu nào?
+A. Lưu trữ dữ liệu.
+B. Nhập dữ liệu.
+##C. Xử lí dữ liệu.
+D. Xuất dữ liệu.
+
+Câu 11:  Các thiết bị: Chuột, bàn phím thuộc:
+##A. Thiết bị vào.
+B. Thiết bị ra.
+C. Thiết bị lưu trữ.
+D. Khối xử lí.
+
+Câu 12:  Thiết bị nào có thể thiếu trong một máy tính thông thường?
+A. CPU.
+B. ROM và RAM.
+C. Màn hình.
+##D. USB
+
+Câu 13:  Khẳng định nào sau đây là đúng khi nói về màn hình cảm ứng?
+A. Màn hình cảm ứng là khối xử lí.
+B. Màn hình cảm ứng là thiết bị lưu trữ.
+##C. Màn hình cảm ứng vừa là thiết bị vào, vừa là thiết bị ra.
+D. Màn hình cảm ứng là bộ nhớ ngoài.
+
+Câu 14:  RAM là:
+A. Bộ nhớ ngoài.
+##B. Bộ nhớ trong.
+C. Thiết bị vào.
+D. Thiết bị ra.
+
+Câu 15:  Phát biểu nào sau đây là đúng khi nói về CPU?
+A. CPU được tạo bởi RAM và ROM.
+B. CPU lưu trữ các phần mềm người sử dụng.
+##C. CPU là bộ xử lí trung tâm, là bộ phận quan trọng nhất của máy tính.
+D. CPU chính là bộ nhớ trong của máy tính.
+
+Câu 16: Trong các bộ phận sau, bộ phận nào không thuộc bộ xử lý trung tâm:
+##A. Đơn vị phối ghép vào ra
+B. Khối số học và logic
+C. Tập các thanh ghi đa năng
+D. Khối điều khiển
+
+Câu 17:  Trong các bộ phận sau, bộ phận nào không thuộc bộ xử lý trung tâm:
+##A. Bộ nhớ trong
+B. Khối số học và logic
+C. Tập các thanh ghi đa năng
+D. Khối điều khiển để thi hành lệnh một cách tuần tự và tác động lên các mạch chức năng nhằm thi hành lệnh.
+
+Câu 18: Trong các bộ phận sau, bộ phận nào thuộc bộ xử lý trung tâm:
+A. Bộ nhớ trong
+B. Đơn vị phối ghép vào ra
+##C. Tập các thanh ghi đa năng
+D. Khối điều khiển Bus hệ thốn
+
+Câu 19: Tại sao bộ nhớ trong của máy tính được gọi là bộ nhớ truy cập ngẫu nhiên?
+A. Giá trị các ô nhớ là ngẫu nhiên
+##B. Thời gian truy cập vào một ô nhớ bất kỳ là như nhau
+C. Bộ nhớ gồm các module có thứ tự sắp xếp ngẫu nhiên
+D. Thời gian truy cập vào một ô nhớ bất kỳ là ngẫu nhiên
+
+Câu 20: Người ta đánh giá sự phát triển của máy tính điện tử số qua các giai đoạn dựa vào tiêu chí nào trong các tiêu chí sau đây?
+A. Tốc độ tính toán của máy tính
+B. Mức độ tích hợp của các vi mạch điện tử trong máy tính
+C. Chức năng của máy tính
+##D. Cả 3 tiêu chí trên
+
+Bài 5
+
+Câu 1: Thuật ngữ nào dùng để chỉ ra các thiết bị vào ra của hệ thống máy tính?
+A. Màn hình.          
+B. Phần mềm.
+##C. Phần cứng.        
+D. Tài nguyên dùng chung.
+
+Câu 2: Thao tác nào sau đây tắt máy tính một cách an toàn?
+A. Sử dụng nút lệnh Restart của Windows.
+##B. Sử dụng nút lệnh Shut down của Windows.
+C. Nhấn giữ công tắc nguồn vài giây.
+D. Rút dây nguồn khỏi ổ cắm.
+
+Câu 3: Phương án nào sau đây chỉ gồm các thiết bị vào?
+A. Micro, máy in. 
+B. Máy quét, màn hình.
+C. Máy ảnh kĩ thuật số, loa. 
+##D. Bàn phím, chuột.
+
+Câu 4: Đâu là chức năng của loa?
+A. Đưa mệnh lệnh vào máy tính để điều khiển đối tượng trong một số trò chơi trên máy tính.
+B. Nhận biết vị trí và sự di chuyển của ngón tay người trên bề mặt và thể hiện trên màn hình.
+C. Dùng để hiển thị nội dung màn hình máy tính lên màn chiếu.
+##D. Chuyển dữ liệu âm thanh từ máy tính ra bên ngoài.
+
+Câu 5: Máy tính của em đang làm việc với một tệp trên thẻ nhớ. Em hãy sắp xếp lại thứ tự các thao tác sau để tắt máy tính an toàn, không làm mất dữ liệu.
+a) Chọn nút lệnh Shut down để tắt máy tính.
+b) Đóng tệp đang mở trên thẻ nhớ.
+c) Chọn "Safe To Remove Hardware" để ngắt kết nối với thẻ nhớ.
+d) Lưu lại nội dung của tệp.
+A. a - b - d - c
+##B. d - b - c - a
+C. d - c - b - a
+D. c - d - a - b
+
+Câu 6: Thiết bị nào dưới đây có thể làm thiết bị đầu ra?
+##A. Màn hình.
+B. Micro.
+C. Bàn phím.
+D. Webcam.
+
+Câu 7: Em hãy cho biết máy ảnh nhập dữ liệu dạng nào vào máy tính?
+A. Con số               
+B. Văn bản.            
+##C. Hình ảnh.           
+D. Âm thanh.
+
+Câu 8: Đâu là chức năng của máy chiếu?
+A. Đưa mệnh lệnh vào máy tính để điều khiển đối tượng trong một số trò chơi trên máy tính.
+B. Nhận biết vị trí và sự di chuyển của ngón tay người trên bề mặt và thể hiện trên màn hình.
+##C. Dùng để hiển thị nội dung màn hình máy tính lên màn chiếu.
+D. Chuyển dữ liệu âm thanh từ máy tính ra bên ngoài.
+
+Câu 9: Khi em đang gọi điện thoại có hình ảnh cho bạn, em không nghe thấy tiếng bạn, nhưng vẫn thấy hình bạn đang nói. Em chọn phương án nào sau đây để giải quyết vấn đề?
+A. Bật micro của mình và nhắc bạn bật micro.
+##B. Bật loa của mình và nhắc các bạn bật micro.
+C. Bật micro của mình và nhắc bạn bật loa.
+D. Bật loa của mình và nhắc bạn bật loa.
+Câu 10: Thiết bị nào dưới đây không thể làm thiết bị đầu vào?
+
+A. Máy quét.
+B. Màn hình cảm ứng.
+C. Máy in đa năng.
+##D. Loa.
+Câu 11: Một bộ tai nghe có gắn micro sử dụng cho máy tính là loại thiết bị gì?
+
+A. Thiết bị vào.                          
+B. Thiết bị ra.
+##C. Thiết bị vừa vào vừa ra.         
+D. Không phải thiết bị vào - ra.
+
+Câu 12: Một máy tính để bàn có các cổng nối như hình vẽ Em hãy lắp thiết bị a) bàn phím vào đúng cổng của nó bằng cách ghép chữ cái với số tương ứng:
+mất ảnh rồi 
+A. 1
+##B. 2
+C. 5
+D. 7
+Câu 13: Đâu là chức năng của tấm cảm ứng?
+
+A. Đưa mệnh lệnh vào máy tính để điều khiển đối tượng trong một số trò chơi trên máy tính.
+##B. Nhận biết vị trí và sự di chuyển của ngón tay người trên bề mặt và thể hiện trên màn hình.
+C. Dùng để hiển thị nội dung màn hình máy tính lên màn chiếu.
+D. Chuyển dữ liệu âm thanh từ máy tính ra bên ngoài.
+Câu 14: Vai trò của thiết bị vào là:
+
+A. Để xử lý thông tin.
+B. Đưa thông tin ra ngoài.
+##C. Để tiếp nhận thông tin vào.
+D. Thực hiện truyền thông tin giữa các bộ phận.
+
+Câu 15: Một máy tính để bàn có các cổng nối như hình vẽ Em hãy lắp thiết bị b) Dây mạng vào đúng cổng của nó bằng cách ghép chữ cái với số tương ứng:
+Ảnh Mất Mẹ Rồi 
+A. 1
+B. 3
+##C. 6
+D. 7
+
+Câu 16: Máy quét ảnh trong hình vẽ là loại thiết bị nào?
+Ảnh Mất Rồi 
+##A. Thiết bị vào.         
+B. Thiết bị ra.                 
+C. Thiết bị vừa vào vừa ra.             
+D. Thiết bị lưu trữ.
+
+Câu 17: Vai trò của thiết bị ra là:
+A. Để xử lý thông tin.
+##B. Đưa thông tin ra ngoài.
+C. Để tiếp nhận thông tin vào.
+D. Thực hiện truyền thông tin giữa các bộ phận.
+Câu 18: Quy tắc nào không đảm bảo sử dụng máy tính an toàn
+A. Giữ trật tự, không gây ồn ào khi sử dụng phòng máy tính.
+B. Giữ gìn phòng máy luôn sạch sẽ, gọn gàng và ngăn nắp.
+##C. Ăn uống trong phòng máy tính.
+D. Phải tắt máy trước khi rời khỏi phòng.
+
+Câu 19: Đâu là chức năng của bộ điều khiển game?
+##A. Đưa mệnh lệnh vào máy tính để điều khiển đối tượng trong một số trò chơi trên máy tính.
+B. Nhận biết vị trí và sự di chuyển của ngón tay người trên bề mặt và thể hiện trên màn hình.
+C. Dùng để hiển thị nội dung màn hình máy tính lên màn chiếu.
+D. Chuyển dữ liệu âm thanh từ máy tính ra bên ngoài.
+
+Câu 20: Thiết bị phổ biến nhất được sử dụng để nhập dữ liệu số và văn bản vào máy tính là gì?
+A. Máy vẽ đề thị. 
+##B. Bàn phím.
+C. Máy in. 
+D. Máy quét.
