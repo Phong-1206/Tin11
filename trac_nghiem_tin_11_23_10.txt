@@ -1,4 +1,4 @@
-Từ Từ Thiếu Bài 1
+Đủ Bài Rồi Á 
 
 Bài 4 
 Câu 1:  Các bộ phận chính trong sơ đồ cấu trúc máy tính gồm:
@@ -248,3 +248,124 @@ A. Máy vẽ đề thị.
 ##B. Bàn phím.
 C. Máy in. 
 D. Máy quét.
+ 
+Bài 1 _ Lưu Trữ Trực Tuyến 
+Câu 1: Thuật ngữ nào được sử dụng để chỉ việc lưu trữ dữ liệu bằng cách sử dụng các thiết bị như ổ đĩa cứng (HDD., ổ đĩa rắn (SSD. và ổ đĩa USB flash?
+##A. Lưu trữ trực tuyến
+B. Lưu trữ vật lí
+C. Lưu trữ đám mây
+D. Lưu trữ trong bộ nhớ
+
+Câu 2: Thiết bị lưu trữ nào thường được sử dụng để lưu trữ lượng dữ liệu lớn trong các dự án như Big Data và trí tuệ nhân tạo (AI.?
+A. HDD
+##B. SSD
+C. Ổ đĩa USB flash
+D. Đĩa CD-ROM
+
+Câu 3: Loại lưu trữ nào đảm bảo rằng dữ liệu được đồng bộ hóa trên nhiều thiết bị và có thể chia sẻ bởi nhiều người dùng ở các vị trí địa lý khác nhau?
+A. Lưu trữ vật lí
+B. Lưu trữ trong bộ nhớ
+##C. Lưu trữ trực tuyến
+D. Lưu trữ đám mây
+
+Câu 4: Lợi ích chính của lưu trữ trực tuyến là gì?
+A. Tốc độ truyền dữ liệu cao
+B. Chi phí thấp
+C. Độ bền vật lí
+##D. Tiện lợi và chia sẻ dữ liệu
+
+Câu 5: Công ty nào cung cấp dịch vụ lưu trữ đám mây Google Drive phổ biến?
+A. Microsoft
+##B. Google
+C. Apple
+D. Amazon
+
+Câu 6: Dịch vụ lưu trữ trực tuyến nào rất phổ biến tại Việt Nam?
+A. Google Drive
+B. OneDrive
+##C. Fshare
+D. Dropbox
+
+Câu 7: Thiết bị lưu trữ nào nổi tiếng với thời gian truy cập nhanh và khả năng chống sốc?
+A. HDD
+##B. SSD
+C. Ổ đĩa USB flash
+D. Đĩa Blu-ray.
+
+Câu 8: Phương pháp lưu trữ nào liên quan đến việc lưu trữ dữ liệu trên các máy chủ từ xa có thể truy cập qua Internet?
+##A. Lưu trữ đám mây
+B. Lưu trữ trong bộ nhớ
+C. Lưu trữ ngoại tuyến
+D. Lưu trữ trên băng
+
+Câu 9: Vấn đề chính khi lưu trữ dữ liệu trực tuyến là gì?
+A. Đồng bộ hóa dữ liệu
+B. Độ bền vật lí
+##C. Bảo mật dữ liệu
+D. Tốc độ truyền dữ liệu
+
+Câu 10: Dịch vụ lưu trữ trực tuyến nào liên quan đến tên miền "www.onedrive.live.com"?
+A. Google Drive
+##B. OneDrive
+C. Dropbox
+D. iCloud
+
+Câu 11: Thiết bị lưu trữ nào được đặc trưng bởi bộ nhớ không bay hơi và độ bền cao?
+A. HDD
+##B. SSD
+C. Ổ đĩa USB flash
+D. Đĩa quang
+
+Câu 12: Thuật ngữ nào ám chỉ việc sao lưu dữ liệu đã lưu trữ trực tuyến?
+A. Đồng bộ hóa dữ liệu
+B. Nén dữ liệu
+C. Mã hóa dữ liệu
+##D. Sao lưu dữ liệu
+
+Câu 13: Công ty nào cung cấp dịch vụ lưu trữ đám mây được biết đến là iCloud?
+A. Microsoft
+B. Google
+##C. Apple
+D. Dropbox
+
+Câu 14: Sự khác biệt chính giữa lưu trữ trực tuyến và lưu trữ vật lí là gì?
+A. Chi phí
+##B. Khả năng truy cập
+C. Tốc độ
+D. Độ tin cậy
+
+Câu 15: Loại lưu trữ nào thường được sử dụng cho mục đích lưu trữ lâu dài?
+A. HDD
+B. SSD
+##C. Lưu trữ trên băng
+D. Ổ đĩa USB flash
+
+Câu 16: Lợi ích chính của việc sử dụng lưu trữ trực tuyến là gì?
+##A. Truy cập dữ liệu từ mọi nơi và mọi lúc
+B. Sao lưu dữ liệu trên các thiết bị vật lý
+C. Tăng tính sẵn có của dữ liệu
+D. Sử dụng bộ nhớ tại chỗ nhanh hơn
+
+Câu 17: Một trong những mặt trái tiềm ẩn của lưu trữ trực tuyến là gì?
+A. Tốc độ đường truyền chậm
+##B. Bảo mật dữ liệu không đảm bảo
+C. Thiếu tính tin cậy của nhà cung cấp dịch vụ
+D. Không thể truy cập dữ liệu từ nhiều thiết bị
+
+Câu 18: Lợi ích chính của việc sử dụng lưu trữ trực tuyến trong việc sao lưu dữ liệu sau một vài sự cố là gì?
+A. Dữ liệu được đồng bộ hoá giữa các thiết bị
+##B. Dữ liệu không bị mất trong sự cố như mất điện
+C. Truy cập dữ liệu từ mọi vị trí địa lý
+D. Sao lưu dữ liệu tự động
+
+Câu 19: Một trong những rủi ro của lưu trữ trực tuyến là gì?
+A. Thiếu tính sẵn có của dữ liệu
+B. Mất dữ liệu sau thảm họa
+C. Tốc độ truyền dữ liệu chậm
+##D. Lỗ hổng bảo mật
+
+Câu 20: Cách kết hợp nào được đề xuất để tận dụng cả lưu trữ tại chỗ và trực tuyến?
+A. Sử dụng bộ nhớ tại chỗ cho mọi loại dữ liệu
+B. Chỉ sử dụng lưu trữ trực tuyến cho dữ liệu cần chia sẻ
+##C. Sử dụng bộ nhớ tại chỗ cho dữ liệu được sử dụng thường xuyên và lưu trữ trực tuyến cho sao lưu
+D. Sử dụng lưu trữ trực tuyến cho mọi loại dữ liệu
