@@ -121,6 +121,8 @@ B. Mức độ tích hợp của các vi mạch điện tử trong máy tính
 C. Chức năng của máy tính
 ##D. Cả 3 tiêu chí trên
 
+
+
 Bài 5
 
 Câu 1: Thuật ngữ nào dùng để chỉ ra các thiết bị vào ra của hệ thống máy tính?
@@ -180,15 +182,15 @@ A. Bật micro của mình và nhắc bạn bật micro.
 ##B. Bật loa của mình và nhắc các bạn bật micro.
 C. Bật micro của mình và nhắc bạn bật loa.
 D. Bật loa của mình và nhắc bạn bật loa.
-Câu 10: Thiết bị nào dưới đây không thể làm thiết bị đầu vào?
 
+Câu 10: Thiết bị nào dưới đây không thể làm thiết bị đầu vào?
 A. Máy quét.
 B. Màn hình cảm ứng.
 C. Máy in đa năng.
 ##D. Loa.
-Câu 11: Một bộ tai nghe có gắn micro sử dụng cho máy tính là loại thiết bị gì?
 
-A. Thiết bị vào.                          
+Câu 11: Một bộ tai nghe có gắn micro sử dụng cho máy tính là loại thiết bị gì?
+A. Thiết bị vào.                      
 B. Thiết bị ra.
 ##C. Thiết bị vừa vào vừa ra.         
 D. Không phải thiết bị vào - ra.
@@ -199,14 +201,14 @@ A. 1
 ##B. 2
 C. 5
 D. 7
-Câu 13: Đâu là chức năng của tấm cảm ứng?
 
+Câu 13: Đâu là chức năng của tấm cảm ứng?
 A. Đưa mệnh lệnh vào máy tính để điều khiển đối tượng trong một số trò chơi trên máy tính.
 ##B. Nhận biết vị trí và sự di chuyển của ngón tay người trên bề mặt và thể hiện trên màn hình.
 C. Dùng để hiển thị nội dung màn hình máy tính lên màn chiếu.
 D. Chuyển dữ liệu âm thanh từ máy tính ra bên ngoài.
-Câu 14: Vai trò của thiết bị vào là:
 
+Câu 14: Vai trò của thiết bị vào là:
 A. Để xử lý thông tin.
 B. Đưa thông tin ra ngoài.
 ##C. Để tiếp nhận thông tin vào.
@@ -223,7 +225,7 @@ Câu 16: Máy quét ảnh trong hình vẽ là loại thiết bị nào?
 Ảnh Mất Rồi 
 ##A. Thiết bị vào.         
 B. Thiết bị ra.                 
-C. Thiết bị vừa vào vừa ra.             
+C. Thiết bị vừa vào vừa ra.            
 D. Thiết bị lưu trữ.
 
 Câu 17: Vai trò của thiết bị ra là:
@@ -250,6 +252,7 @@ C. Máy in.
 D. Máy quét.
  
 Bài 1 _ Lưu Trữ Trực Tuyến 
+
 Câu 1: Thuật ngữ nào được sử dụng để chỉ việc lưu trữ dữ liệu bằng cách sử dụng các thiết bị như ổ đĩa cứng (HDD., ổ đĩa rắn (SSD. và ổ đĩa USB flash?
 ##A. Lưu trữ trực tuyến
 B. Lưu trữ vật lí
