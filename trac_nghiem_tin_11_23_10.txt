@@ -254,8 +254,8 @@ D. Máy quét.
 Bài 1 _ Lưu Trữ Trực Tuyến 
 
 Câu 1: Thuật ngữ nào được sử dụng để chỉ việc lưu trữ dữ liệu bằng cách sử dụng các thiết bị như ổ đĩa cứng (HDD., ổ đĩa rắn (SSD. và ổ đĩa USB flash?
-##A. Lưu trữ trực tuyến
-B. Lưu trữ vật lí
+A. Lưu trữ trực tuyến
+##B. Lưu trữ vật lí
 C. Lưu trữ đám mây
 D. Lưu trữ trong bộ nhớ
 
